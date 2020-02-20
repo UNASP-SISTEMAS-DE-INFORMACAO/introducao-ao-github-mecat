@@ -1,1 +1,1 @@
-print("Cadastro de Produto sobre livros")
+print("Cadastro de Produto")
